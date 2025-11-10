@@ -5,7 +5,7 @@ It features dark/light theme toggling, dynamic posts, image previews, infinite s
 
 ---
 
-## 🚀 Features
+## Features
 
 -  **Dark/Light Theme Toggle** — Switch themes instantly, auto-applies across all sections.  
 -  **Post Creation** — Create text or image posts dynamically.  
