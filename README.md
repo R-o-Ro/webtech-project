@@ -1,4 +1,4 @@
-# Social Media Feed (Dark Mode Project)
+# Social Media Feed
 
 A responsive and dynamic social media feed web app inspired by Instagram and Twitter — built using **HTML**, **CSS**, and **JavaScript**.  
 It features dark/light theme toggling, dynamic posts, image previews, infinite scrolling, and interactive post actions.
